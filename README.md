@@ -6,4 +6,4 @@ Front-end : HTML,CSS,Bootstrap
 Back-end : PHP Database: MYSQL
 
 
-Final project of internshala trainings course on web development.
+Final project of Internshala trainings course on web development.
